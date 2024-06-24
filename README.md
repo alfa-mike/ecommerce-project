@@ -1,5 +1,3 @@
-Take Home Assessment
-Please Complete Below assessment and upload github link of that solution after completion
 Assignment Title: Backend Engineering Challenge
 
 Introduction: In this assignment, you will build a microservices-based system that manages a simple e-commerce application. The system should handle user authentication, product management, and order processing. Emphasis will be placed on implementing concurrency control and ensuring the system can handle clustering for high availability.

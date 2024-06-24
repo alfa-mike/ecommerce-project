@@ -34,36 +34,3 @@ Version Control: Use a version control system (e.g., Git) to track changes in yo
 Error Handling: Implement comprehensive error handling and logging for the microservices.
 Testing: Write unit tests for critical components, including concurrency control mechanisms.
 Deployment: Provide clear instructions for deploying and running your microservices on a local development environment or a cloud platform (e.g., AWS, Azure, Google Cloud).
-
-
-Bonus Features (Optional):
-Implement API rate limiting to prevent abuse.
-Use message queues for asynchronous communication between microservices.
-Implement caching strategies to improve system performance.
-Create monitoring and alerting solutions for the microservices (e.g., Prometheus and Grafana).
-
-
-Submission:
-Provide a link to your version-controlled repository (e.g., GitHub, GitLab).
-Include clear instructions on how to set up and run your microservices.
-Share any additional documentation or notes that might help reviewers understand your project.
-
-
-Assessment Criteria:
-Your assignment will be evaluated based on:
-Microservices Architecture: Is the system structured as microservices and are they correctly divided by functionality?
-Concurrency Control: Is concurrent access controlled effectively, and is data integrity maintained?
-Clustering: Does the system demonstrate high availability and clustering capabilities?
-Code Quality: Is the code clean, well-documented, and maintainable?
-Testing: Are there unit tests for critical components and concurrency control mechanisms?
-
-
-Bonus Features: If implemented, do they enhance system functionality and performance?
-This assignment will assess your backend engineering skills, especially in microservices, concurrency control, and high availability. Good luck!
-P.S. Any assumptions taken while design / implementation should be documented in README file
-
-Submission Links
-Github link of solution*
-Loom video url
-Submit for review
-

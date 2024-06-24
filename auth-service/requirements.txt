@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+gunicorn
+SQLAlchemy
+psycopg2-binary
+bcrypt
+faker

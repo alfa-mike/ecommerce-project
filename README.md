@@ -29,8 +29,13 @@ Ensure that users can only access their own orders and the products they are aut
 
 
 General Requirements:
+
 Code Quality: Write clean, well-documented, and maintainable code. Follow best practices for the chosen programming language and framework.
+
 Version Control: Use a version control system (e.g., Git) to track changes in your code and provide a Git repository for the assessment.
+
 Error Handling: Implement comprehensive error handling and logging for the microservices.
+
 Testing: Write unit tests for critical components, including concurrency control mechanisms.
+
 Deployment: Provide clear instructions for deploying and running your microservices on a local development environment or a cloud platform (e.g., AWS, Azure, Google Cloud).
